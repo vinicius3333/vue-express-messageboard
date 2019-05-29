@@ -1,5 +1,5 @@
 # MessageBoard
-> Example for a mini board using Vue, Bootstrap, Express and MongoDB.
+> Example for a mini messageboard using Vue, Bootstrap, Express and MongoDB.
 
 ## Quick Start
 ```bash
